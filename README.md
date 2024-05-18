@@ -47,7 +47,7 @@ The data pipeline for Supreme Techserve is designed to facilitate the seamless i
 
 ## Architecture
 
-![Data Pipeline](/Supreme_Techserve_Datapipeline.png)
+![Data Pipeline](Project_Files/Supreme_Techserve_Datapipeline.png)
 
 ## Pipeline Stages
 
